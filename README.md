@@ -5,7 +5,7 @@
 
     **1.** Create a customer performance report for years 2019, 2020 and 2021 for a company named AtliQ hardwares.(https://github.com/palanindya83-code/Excel_sales-analytics/blob/main/Customer%20Performance%20Report.pdf)
 
-    **2.** Conduct a comprehensive comparison between market performance vs established targets.
+    **2.** Conduct a comprehensive comparison between market performance vs established targets.(https://github.com/palanindya83-code/Excel_sales-analytics/blob/main/Market%20Performance%20vs%20Target%20Report.pdf)
 
 - **Purpose of sales analytics:** Empower businesses to monitor and evaluate their sales activities and performance.
 

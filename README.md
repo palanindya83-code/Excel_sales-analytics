@@ -3,7 +3,7 @@
 
 - **Project objective:** 
 
-    **1.** Create a customer performance report for years 2019, 2020 and 2021 for a company named AtliQ hardwares.
+    **1.** Create a customer performance report for years 2019, 2020 and 2021 for a company named AtliQ hardwares.(https://github.com/palanindya83-code/Excel_sales-analytics/blob/main/Customer%20Performance%20Report.pdf)
 
     **2.** Conduct a comprehensive comparison between market performance vs established targets.
 
